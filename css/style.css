@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(214, 223, 220);
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 6px;
+    width: 5%;
+}
+
+div {
+     width: 60%;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    display: flex;
+    margin: 0; 
+}
+h1,h3 {
+    color: #66bfbf;
+}
