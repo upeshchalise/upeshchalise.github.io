@@ -141,3 +141,14 @@ margin: 100px 0;
     font-size: 0.8rem;
     padding: 20px 0;
   }
+
+  @media only screen and (max-width: 600px) {
+    .mountain-img{
+        width:100%;
+    }
+    .second-cloud {
+        position: absolute;
+        bottom: 180px;
+        left: 225px;
+    }
+  }
