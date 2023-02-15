@@ -141,3 +141,12 @@ margin: 100px 0;
     font-size: 0.8rem;
     padding: 20px 0;
   }
+
+
+/* media Queries */
+@media (min:496px) {
+    btn {
+        width: 80%;
+    }
+    
+}
